@@ -1,7 +1,7 @@
 
   # GenoGuard Web Application UI
 
-  This is a code bundle for GenoGuard Web Application UI. The original project is available at https://www.figma.com/design/ZmOvPvD9Xas9IdnyFFlfq1/GenoGuard-Web-Application-UI.
+
 
   ## Running the code
 
